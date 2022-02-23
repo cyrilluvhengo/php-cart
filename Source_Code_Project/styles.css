@@ -1,0 +1,127 @@
+@import url('../css/fonts.css');
+@import "webfonts/../";
+@import "fonts/Josefin_Sans/../";
+body{
+    margin: 0px;
+}
+.container
+{
+    display: grid;
+     
+}
+
+.wrapper
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+    background: graytext;
+}
+
+.left-side
+{
+    display: flex;
+}
+
+.wrapper > .left-side > div 
+{
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+.pagess
+{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+.pagess a{
+    color: #f7a239  ;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.pagess:hover{
+    border-bottom: 1px solid black;
+}
+
+.pagess a:hover{
+    color: black;
+}
+
+/*portfolio */
+.heads
+{
+    display: flex;
+    
+    padding: 38px;
+    
+}
+.head-wra {
+    color: cadetblue ;    
+}
+.nav .social{
+    padding: 1.4rem 0
+}
+
+.nav .social i{
+    padding: 0 .2rem;
+}
+
+.nav .social i:hover{
+    color: #a1c4cf;
+}
+
+.image
+{
+    width: 30%;
+    height: 200px;
+    border: 5px dashed #f7a239;
+    align-content: center;
+}
+
+img
+{
+    width: 100% ;
+    height: 100%;
+}
+img:hover{
+     border-bottom: 5px solid black;
+     
+}
+.paragrap
+{
+    margin-right: 20px;
+    display: flex;
+    padding-bottom: 30px;
+    align-content: center;
+    
+}
+
+.para
+{
+    
+   margin-right: 20px;
+   font-size: 0.9em;
+   align-content: center;
+    
+}
+.small-head
+{
+    
+   color: cadetblue;
+    align-content: center;
+}
+.fontss
+{
+    font-family: sans-serif;
+    font-style: italic ;
+}
+.footer {
+   display: flex;
+    justify-content: space-between;
+    padding: 38px;
+    background: graytext;
+  text-align: center;
+  margin-right: 20px;
+}

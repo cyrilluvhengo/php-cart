@@ -1,0 +1,15 @@
+A10110;Dell i3 Laptop;1500;1;1800;img1.jpg
+A10112;Lenovo Intel Core;1000;5;1200;img2.jpg
+A10113;Dell i7 9th gen;20000;6;21000;img3.jpg
+A10114;Dell i7 9th gen Desktop;10000;7;10200;img4.jpg
+A10115;Lenovo i7 9th gen Laptop;17000;4;17999;img5.jpg
+A10116;HP i3 5th gen Desktop;3000;10;3200;img6.jpg
+A10117;HP i3 5th gen Laptop;5000;5;5300;img7.jpg
+A10118;Dell Inspiron 15 10th gen;14000;4;15000;img8.jpg
+A10119;Dell E1916HV;1400;5;1500;img9.jpg
+A10120;Lenovo i5;8000;4;8999;img10.jpg
+A10121;Lenovo ThinkPad T480s;14000;3;14999;img11.jpg
+A10122;MacBook Air M1;17000;10;17999;img12.jpg
+A10123;MacBook Pro;23000;5;24000;img13.jpg
+A10124;Huawei MateBook D14 i5;15500;10;16999;img14.jpg
+A10125;Lenovo Notebook;9000;10;9999;img15.jpg
